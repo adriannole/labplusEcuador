@@ -5,15 +5,6 @@
 package com.mycompany.mavenproject1;
 
 
-//hazme un programa en java que me resuleva los siguientes ejercicios:
-// 1. Pasar al sistema decimal el numero 101111(base 2)
-// 2.Pasar el numero 27,025(base 10) a binario
-// 3. 42(base 8) a base 10
-// 4. 64(base 10) a base binaria 
-// 5.145(base 10) a base binaria
-// 6. C(base 16) a base 10 
-// 7. ABCD(base 16) a base 10
-
 
 public class Sistema {
     public static void main(String[] args) {
